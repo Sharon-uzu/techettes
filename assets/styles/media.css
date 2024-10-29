@@ -1,0 +1,417 @@
+@media screen and (max-width: 1000px){
+    .nav .logo img{
+        width: 98px;
+    }
+    h2{
+        font-size: 26px;
+    }
+    /* HERO-SECTION STARTS HERE */
+    .hero {
+            width: 90%;
+            flex-direction: column-reverse;
+            padding-top: 0px;
+     }
+
+    .hero .hero-txt{
+        width: 100%;
+        margin-top: 20px;
+    }
+    .hero .hero-txt h1{
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .hero .hero-txt p{
+        font-size: 16px;
+        margin-bottom:40px;
+    }
+    .hero .hero-img {
+        width: 100%;
+    }
+
+    /* HERO-SECTION ENDS HERE */
+
+
+    /* TOP TALENTS STARTS HERE */
+    .top{
+        width: 90%;
+        margin: auto;
+        padding-top: 50px;
+        padding-bottom: 15px;
+    }
+
+    .top p {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+
+    .top .talents{
+        width: 100%;
+        grid-template-columns: 1fr;
+    }
+    .top .talents .talent1 h3{
+       font-size: 18px;
+    }
+    .top .talents .talent1 h4{
+       font-size: 18px;
+    }
+
+    /* TOP TALENTS ENDS HERE */
+
+
+    /*  HOW IT WORKS SECTION STARTS HERE */
+
+    .how{
+        width: 90%;
+        margin: auto;
+        padding: 0px 0 20px 0;
+    }
+    .how .steps{
+        padding-top: 20px;
+        width: 100%;
+        grid-template-columns:  1fr 1fr;
+    }
+    .how .steps .step1{
+        margin-bottom: 20px;
+        height: 280px;
+    }
+    .how .steps .step1 img {
+        width: 30%;
+    }
+    .how .steps .step1 h4{
+        font-size: 18px;
+    }
+    .how .steps .step1 p{
+        font-size: 16px;
+    }
+    /*  HOW IT WORKS SECTION ENDS HERE */
+
+    /* EXPLORE SECTION ENDS HERE */ 
+    .explore .steps a .explore2 h5 {
+        font-size: 22px;
+        padding-bottom: 20px;
+    }
+    
+    /* EXPLORE SECTION ENDS HERE */
+
+
+    /* LADIES CAN TECH SECTION STARTS HERE */
+    .ladies {
+        height: 350px;
+        margin-top: 0;
+    }
+    .ladies h3{
+        font-size: 40px;
+        text-align: center;
+    }
+    .ladies h5{
+        font-size: 24px;
+        margin-top: 20px;
+    }
+
+    /* LADIES CAN TECH SECTION ENDS HERE */
+
+
+    /* EXCITING OFFERS SECTION STARTS HERE */
+
+    .exciting{
+        width: 88%;
+        margin: auto;
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+    .exciting .offers{
+        padding-top: 20px;
+        width: 100%;
+        grid-template-columns: 1fr;
+    }
+    .exciting .offers .offer1{
+       margin: auto;
+    }
+    .exciting .offers .offer1 .google .g-l{
+        width: 20%;
+    }
+    .exciting .offers .offer1 .google .g-r {
+        width: 80%;
+    }
+    .exciting .offers .offer1 .google .g-r h4{
+        font-size: 21px;        
+    }
+    .exciting .offers .offer1 .google .g-r h3 {
+           font-size: 21px;
+    }
+    
+    .exciting .offers .offer1 .google .g-r h5 {
+        font-size: 18px;
+    }
+
+
+    /* EXCITING OFFERS SECTION ENDS HERE */
+
+    /* NEWSLETTER SECTION STARTS HERE */
+    .news{
+        width: 85%;
+        flex-direction: column-reverse;
+        padding: 50px 0;
+    }
+    .news form{
+        width: 100%;
+        margin-top: 10px;
+    }
+    .news form h3{
+        font-size: 34px;
+        margin-bottom: 18px;
+    }
+    .news form p{
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    .news .news-img {
+        width: 100%;
+    }
+
+    /*  NEWSLETTER SECTION ENDS HERE */
+    
+
+    /* ABOUT SECTION STARTS HERE */
+    .about-us{
+        padding: 5px 0;
+    }
+    .about-us .about-c{
+        flex-direction: column-reverse;
+    }
+    .about-us .about-c .about-l{
+        width: 100%;
+        padding-top: 30px;
+    }
+    .about-us .about-c .about-l h2{
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+    .about-us .about-c .about-l h3{
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+    .about-us .about-c .about-l p{
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+    .about-us .about-c .about-r{
+        width: 100%;
+    }
+    .about-us .purple{
+       height: 180px;
+    }
+    .about-us .value{
+        flex-direction: column;
+        padding: 15px 0;
+    }
+
+    .about-us .value .value-l{
+        width: 100%;
+        margin-bottom: 0px;
+    }.about-us .value .value-r {
+        width: 100%;
+    }
+    .about-us .value .value-r h3{
+        font-size: 30px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .about-us .value .value-r .values-p{
+       flex-direction: column;
+    }
+    .about-us .value .value-r .values-p .value1{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .about-us .value .value-r .values-p .value1 h4{
+        font-size: 22px;
+        margin-bottom: 5px;
+    
+    }
+
+    .about-us .value .value-r .values-p .value1 p{
+        font-size: 16px;
+    
+    }
+
+    /* ABOUT US ENDS HERE */
+
+    /* CONTACT SECTION STARTS HERE */
+    .contact-us .purple h3{
+        font-size: 26px;
+    }
+    .contact-us .contact-flex{
+        flex-direction: column;
+        padding-top: 20px;
+    }
+
+    .contact-us .contact-flex form{
+        width: 100%;
+    }
+    .contact-us .contact-flex form p {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .contact-us .contact-flex .cont-right{
+        width: 100%;
+    }
+
+
+    /* CONTACT ENDS HERE */
+
+    /* TESTIMONIAL SECTION STARTS HERE */
+    .testimonials{
+        width: 90%;
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+    .testimonials h3{
+        font-size: 32px;
+    }
+
+    .testimonials .testimonial{
+        width: 100%;
+        padding-top: 20px;
+        grid-template-columns: 1fr;
+    }
+    .testimonials .testimonial .tests{
+        margin-bottom: 20px;
+    }
+
+    .testimonials .testimonial .tests .test1{
+        width: 90%;
+    } 
+    .testimonials .testimonial .tests .test1 .test-img{
+        width: 35%;
+    }
+    /* TESTIMONIAL SECTION ENDS HERE */
+
+
+    /* FOOTER STARTS HERE */
+    footer{
+        margin-top: 20px;
+        padding: 30px 0;
+    }
+    footer .foot-c{
+        width: 90%;
+        margin: auto;
+        grid-template-columns: 1fr 1fr;
+        text-align: center;
+    }
+    footer .foot-c .foot1{
+        margin-bottom: 20px;
+    }
+    footer .foot-c .foot1 li{
+        font-size: 13px;
+    }
+    footer .foot-c .foot1 .cont .li-img img{
+        width: 90%;
+    }
+    footer .foot-c .foot1 .socials{
+        width: 100%;
+    }
+    footer .foot-c .foot1 .socials img{
+        width: 15%;
+    }
+    .main li{
+        font-size: 13px;
+    }
+
+
+    /*  LOGIN SECTION STARTS HERE  */
+    .login{
+        flex-direction: column-reverse;
+        padding: 10px 0;
+    }
+    .login form {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .login form h2{
+        font-size: 26px;
+    }
+    .login form p{
+        font-size: 16px;
+        padding-bottom: 15px;
+    }
+    .login form h4 a{
+    font-size: 17px;
+    }
+    .login .welcome{
+        width: 100%;
+    }
+
+
+    /* DASHBOARD STARTS HERE */
+    .dash-nav .dash-logo{
+        width: 40%;
+    }
+    .dash-nav .dash-logo img{
+        width: 90px;
+    
+    }
+    .dash-nav ul{
+        width: 60%;
+       
+    }
+    .dash-nav ul li a{
+        font-size: 15px;
+    }
+    .dash1 .dash-p{
+        height: 120px;
+    }
+    .dash1 .dash-flex1 .flex-img{
+        width: 40%;
+    }
+    .dash1 .dash-flex1 .flex-img img{
+        width: 90%;
+    }
+    .dash1 .dash-flex1 .flex-img .edit1{
+        width: 50%;
+        top: 4rem;
+        left: 5rem;
+    }
+    .dash1 .dash-flex1 .flex-txt{
+        margin-left: 10px;
+    }
+    .dash1 .dash-flex1 .flex-txt h3{
+        font-size: 18px;
+    }
+    .dash1 .dash-flex1 .flex-txt p{
+        font-size: 18px;
+    }
+    .profile{
+        flex-direction: column;
+        padding: 20px 0;
+    }
+        
+    .profile .profile-l{
+        width: 100%;
+    }
+    
+    .profile .profile-r{
+        width: 100%;
+    }
+
+
+
+
+}
+
+
+@media screen and (max-width: 320px){
+    .dash-nav .dash-logo{
+        width: 25%;
+    }
+    .dash-nav .dash-logo img{
+        width: 80px;
+    
+    }
+    .dash-nav ul{
+        width: 75%;
+    }
+    .dash-nav ul li a{
+        font-size: 14px;
+    }
+}
